@@ -7,7 +7,7 @@ const baseurl =
 
 // my api keys
 //to get the temperature
-const apikey = ",&appid=073afd3d32c370b67781bead774c9922=metric";
+const apikey = ",&APPID=073afd3d32c370b67781bead774c9922=metric";
 const server = "http://125.0.0.2:4000";
 const error = document.getElementById("error");
 const genertadata = () => {
